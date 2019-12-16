@@ -3,7 +3,7 @@
   <groupId>dad.javafx</groupId>
   <artifactId>AdivinApp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <exec.mainClass>src.main.java.adivinApp.Main</exec.mainClass>
+  <exec.mainClass>adivinApp.Main</exec.mainClass>
   <name>AdivinApp</name>
   
   
