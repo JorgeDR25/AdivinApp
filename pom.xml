@@ -3,7 +3,6 @@
   <groupId>dad.javafx</groupId>
   <artifactId>AdivinApp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <exec.mainClass>adivinApp.Main</exec.mainClass>
   <name>AdivinApp</name>
   
   
@@ -11,6 +10,7 @@
    <properties>
   	<maven.compiler.target>11</maven.compiler.target>
   	<maven.compiler.source>11</maven.compiler.source>
+     <exec.mainClass>adivinApp.Main</exec.mainClass>
   </properties>
   
   
